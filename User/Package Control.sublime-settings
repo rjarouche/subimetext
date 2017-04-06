@@ -1,0 +1,48 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"Angular-io-Code",
+		"AngularJS",
+		"Blade Snippets",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"Bootstrap 4 Autocomplete",
+		"Bootstrap 4 Snippets",
+		"Boxy Theme Addon - Mono File Icons",
+		"Eloquent Snippets",
+		"Emmet",
+		"Emmet Style Reflector",
+		"GotoDocumentation",
+		"jQuery",
+		"jQuery Snippets pack",
+		"jQueryDocs",
+		"JS Snippets",
+		"Laravel 5 Artisan",
+		"Laravel 5 Docs Light Color Scheme",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Laravel Helper Completions",
+		"Material Theme",
+		"Package Control",
+		"PHP Getters and Setters",
+		"php-snippets",
+		"Phpcs",
+		"PhpDoc",
+		"phpfmt",
+		"PhpSpec Snippets",
+		"PHPUnit",
+		"PHPUnit Completions",
+		"PHPUnit Snippets",
+		"Seti_UI",
+		"SublimeCodeIntel",
+		"SublimeLinter-php",
+		"Theme - amCoder",
+		"Theme - Flatland",
+		"Theme - itg.flat"
+	]
+}
